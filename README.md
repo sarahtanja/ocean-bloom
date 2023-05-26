@@ -1,4 +1,5 @@
 # ocean-bloom
+[![DOI](https://zenodo.org/badge/467669124.svg)](https://zenodo.org/badge/latestdoi/467669124)
  A game about phytoplankton, inspired by Wingspan
  
 "Ocean Bloom" is a fun and educational boardgame that can be used to teach a broad audience about phytoplankton. Players take on the role of a scientist conducting a research cruise in the world's oceans to uncover phytoplankton's diverse abilities to sequester carbon, produce oxygen, and sometimes form harmful algal blooms. 
